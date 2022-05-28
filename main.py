@@ -3,9 +3,6 @@
 # find_anagrams("hello") --> False
 # find_anagrams("racecar") --> True
 
-from distutils.command.check import SilentReporter
-
-
 s1 = input("enter your first word: ")
 s2 = input("enter your second word: ")
 
